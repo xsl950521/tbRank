@@ -1,0 +1,8 @@
+{
+    "db_hostip":"123.60.80.165",
+    "db_user":"",
+    "db_pass":"bfengzlgdredis2017",
+    "db_name":0,
+    "db_port":6379
+
+}

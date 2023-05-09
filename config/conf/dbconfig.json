@@ -1,0 +1,7 @@
+{
+    "db_hostip":"123.60.80.165",
+    "db_port":"3306",
+    "db_user":"sa1",
+    "db_pass":"sa1",
+    "db_name":"mobile_config_zl"
+}
